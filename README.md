@@ -3,7 +3,7 @@ Our codebase is built upon the Time-Series-Library. Please follow their instruct
 Clone the repo:
 
 Bash
-git clone https://github.com/你的用户名/M3-HSD.git
+git clone https://github.com/your_name/M3-HSD.git
 cd M3-HSD
 Install dependencies:
 You can refer to the environment requirements in thuml/Time-Series-Library. Specifically, we recommend:
